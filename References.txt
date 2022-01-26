@@ -1,3 +1,4 @@
 References:
 
-[1] https://towardsdatascience.com/reliability-analysis-with-python-862c95e5c65a
+[1] https://en.wikipedia.org/wiki/Reliability_engineering
+[2] https://towardsdatascience.com/reliability-analysis-with-python-862c95e5c65a
